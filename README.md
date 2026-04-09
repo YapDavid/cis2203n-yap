@@ -1,0 +1,1 @@
+I used several Java String methods for validation: .toString(), .equals(), .length(), and .substring(). First, .toString() converts the user input into a string. Then, .substring() and .length() are used to get the last two digits of the ID to create the correct password. Finally, .equals() checks if the generated password matches the user’s input
